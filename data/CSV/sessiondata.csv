@@ -1,0 +1,18 @@
+id_session,user_pseudo,device_label,value_type,data_value
+1,frank,Suunto Peak,power,95
+1,frank,Suunto Peak,heart_rate,106
+2,frank,Suunto Peak,temperature,6
+2,frank,Suunto Peak,heart_rate,159
+6,olivia,Suunto Peak,power,198
+8,alice,Coros Pace,cadence,55
+11,grace,Wahoo Tickr,temperature,37
+11,grace,Wahoo Tickr,power,292
+13,julien,Apple Watch,cadence,65
+13,julien,Apple Watch,temperature,8
+14,leo,Suunto Peak,cadence,77
+15,olivia,Suunto Peak,cadence,75
+16,alice,Coros Pace,power,105
+16,alice,Coros Pace,cadence,63
+17,grace,Wahoo Tickr,temperature,3
+17,grace,Wahoo Tickr,heart_rate,132
+17,grace,Wahoo Tickr,power,134

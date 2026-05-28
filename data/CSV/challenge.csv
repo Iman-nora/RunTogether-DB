@@ -1,0 +1,11 @@
+id_challenge,creator,challenge_label,start_date,end_date,goal_type,goal_value,max_member
+1,julien,Cumul de distance : 100 km,2025-12-05 20:40:45,2026-01-02 20:40:45,distance,100,1
+2,frank,Atteindre 1000 m de dénivelé au total,2026-04-18 20:40:45,2026-06-13 20:40:45,elevation,1000,20
+3,charlie,Être actif pendant 10 jours,2026-01-18 20:40:45,2026-02-20 20:40:45,active_days,10,1
+4,olivia,Cumul de distance : 50 km,2026-03-08 20:40:45,2026-05-03 20:40:45,distance,50,20
+5,kara,Grimper 3000 m en tout,2026-03-11 20:40:45,2026-04-26 20:40:45,elevation,3000,1
+6,julien,Parcourir au moins 200 km,2026-04-11 20:40:45,2026-06-06 20:40:45,distance,200,1
+7,frank,Cumuler 20 h de sport,2026-01-21 20:40:45,2026-02-02 20:40:45,time,20,20
+8,kara,Parcourir au moins 10 km,2025-11-11 20:40:45,2025-12-12 20:40:45,distance,10,20
+9,kara,Cumul de distance : 100 km,2025-11-30 20:40:45,2026-01-01 20:40:45,distance,100,1
+10,nathan,Rester actif pendant 20 heures au total,2026-04-01 20:40:45,2026-04-29 20:40:45,time,20,5

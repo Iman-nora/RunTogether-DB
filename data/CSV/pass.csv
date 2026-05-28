@@ -1,0 +1,6 @@
+id_pass,pass_label,required_score
+1,Débutant,10
+2,Sportif,50
+3,Athlète,150
+4,Champion,300
+5,Légende,500

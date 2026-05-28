@@ -1,0 +1,35 @@
+sport_label,parent_label
+Endurance,
+Course à pied,Endurance
+Trail,Course à pied
+Marathon,Course à pied
+Ultra-trail,Trail
+Cyclisme,Endurance
+Vélo de route,Cyclisme
+VTT,Cyclisme
+Enduro,VTT
+Gravel,Cyclisme
+Natation,Endurance
+Natation en eau libre,Natation
+Randonnée,Endurance
+Marche nordique,Randonnée
+Trekking,Randonnée
+Sports nautiques,Endurance
+Kayak,Sports nautiques
+Aviron,Sports nautiques
+Sports hivernaux,Endurance
+Ski de fond,Sports hivernaux
+Triathlon,Endurance
+Fitness,
+CrossFit,Fitness
+Yoga,
+Pilates,
+Arts martiaux,
+Judo,Arts martiaux
+Sports collectifs,
+Football,Sports collectifs
+Basketball,Sports collectifs
+Escalade,
+Boulder,Escalade
+Danse,
+Zumba,Danse
