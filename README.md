@@ -36,3 +36,6 @@ psql -U postgres -d runtogether -f import.sql
 
 - Multi-table joins (up to 4 tables), subqueries and aggregations
 - Self-join with correlated subquery (friend-of-friend recommendation)
+- NULL handling and totality conditions 
+- Outer Join 
+- Aggregation with GROUP BY HAVING + Correlated Subqueries  
